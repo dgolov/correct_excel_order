@@ -3,3 +3,4 @@ venv/
 __pycache__
 *.pyc
 test3.xlsx
+.idea
