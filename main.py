@@ -65,7 +65,7 @@ def load_json(path: str) -> (json, None):
 
 
 def make_run(path_to_excel: str, path_to_json: str) -> int:
-    """ Entry point to correct
+    """ Entry point to make
     :param path_to_excel: path in arg 1
     :param path_to_json:  path in arg 3
     :return: result status
